@@ -1,5 +1,4 @@
 
-== README
 # SoundCloud Clone
 
 Heroku link
