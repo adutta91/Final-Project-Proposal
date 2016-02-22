@@ -23,11 +23,16 @@ Features:
 * [Wireframes][wireframes]
 * [Database Schema][schema]
 * [Component Hierarchy][components]
+* [Flux Stores][stores]
+* [API endpoints][endpoints]
 
 
 [wireframes]: ./docs/Wireframes.md
 [schema]: ./docs/schema.md
 [components]: ./docs/components.md
+[stores]: ./docs/stores.md
+[endpoints]: ./docs/endpoints.md
+
 
 ## Implementation Timeline
 
