@@ -22,10 +22,12 @@ Features:
 ## Design Docs
 * [Wireframes][wireframes]
 * [Database Schema][schema]
+* [Component Hierarchy][components]
 
 
 [wireframes]: ./docs/Wireframes.md
 [schema]: ./docs/schema.md
+[components]: ./docs/components.md
 
 ## Implementation Timeline
 
