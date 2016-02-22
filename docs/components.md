@@ -1,86 +1,86 @@
 ## Component Hierarchy
 
-* 'App'
+* `App`
 
-  * 'LogInForm'
+  * `LogInForm`
 
-  * 'SignUpForm'
+  * `SignUpForm`
 
-  * 'HeaderComponent'
-    * 'SettingsButton'
-    * 'AboutButton'
-    * 'HomeButton'
-    * 'SearchForm'
-      * 'SearchText'
-      * 'SearchButton'
-    * 'ProfileButton'
-    * 'LogOutButton'
+  * `HeaderComponent`
+    * `SettingsButton`
+    * `AboutButton`
+    * `HomeButton`
+    * `SearchForm`
+      * `SearchText`
+      * `SearchButton`
+    * `ProfileButton`
+    * `LogOutButton`
 
-  * 'ImageComponent'
-    * 'ImageBanner'
-    * 'SearchForm'
-      * 'SearchText'
-      * 'SearchButton'
+  * `ImageComponent`
+    * `ImageBanner`
+    * `SearchForm`
+      * `SearchText`
+      * `SearchButton`
 
-  * 'ExploreIndex'
-    * 'ExploreIndexItem'
+  * `ExploreIndex`
+    * `ExploreIndexItem`
 
-  * 'UserIndex'
+  * `UserIndex`
     * ProfileInfoIndex
-      * 'EditProfileButton'
-      * 'ProfilePicture'
-      * 'ProfileInfo'
-    * 'UploadedSongsIndex'
-      * 'UploadedSongsIndexItem'
+      * `EditProfileButton`
+      * `ProfilePicture`
+      * `ProfileInfo`
+    * `UploadedSongsIndex`
+      * `UploadedSongsIndexItem`
 
-  * 'SuggestionsIndex'
-    * 'SuggestionsIndexItem'
-      * 'AlbumImage'
-      * 'SongTitle'
-      * 'PlayTrackButton'
+  * `SuggestionsIndex`
+    * `SuggestionsIndexItem`
+      * `AlbumImage`
+      * `SongTitle`
+      * `PlayTrackButton`
 
-  * 'LikedSongsIndex'
-    * 'LikedSongIndexItem'
-      * 'AlbumImage'
-      * 'SongTitle'
-      * 'PlayTrackButton'
-      * 'AddToQueueButton'
-      * 'RemoveButton'
+  * `LikedSongsIndex`
+    * `LikedSongIndexItem`
+      * `AlbumImage`
+      * `SongTitle`
+      * `PlayTrackButton`
+      * `AddToQueueButton`
+      * `RemoveButton`
 
-  * 'FooterComponent'
-    * 'QueueComponent'
-      * 'PreviousTrackButton'
-      * 'PlayTrackButton'
-      * 'NextTrackButton'
-      * 'LikeTrackButton'
+  * `FooterComponent`
+    * `QueueComponent`
+      * `PreviousTrackButton`
+      * `PlayTrackButton`
+      * `NextTrackButton`
+      * `LikeTrackButton`
 
-  * 'SongInfoComponent'
-      * 'SongInfoIndex'
-        * 'AlbumImage'
-        * 'PlayTrackButton'
-        * 'SongInfo'
-        * 'AddToQueueButton'
-        * 'LikeSongButton'
-        * 'LikeCount'
-      * 'CommentIndex'
-        * 'CommentIndexItem'
-      * 'SimilarSongsIndex'
-        * 'SimilarSongsIndexItem'
+  * `SongInfoComponent`
+      * `SongInfoIndex`
+        * `AlbumImage`
+        * `PlayTrackButton`
+        * `SongInfo`
+        * `AddToQueueButton`
+        * `LikeSongButton`
+        * `LikeCount`
+      * `CommentIndex`
+        * `CommentIndexItem`
+      * `SimilarSongsIndex`
+        * `SimilarSongsIndexItem`
 
-  * 'ArtistInfoComponent'
-    * 'ArtistImage'
-    * 'ArtistInfo'
+  * `ArtistInfoComponent`
+    * `ArtistImage`
+    * `ArtistInfo`
 
-  * 'ArtistAlbumsIndex'
-    * 'ArtistAlbumsIndexItem'
+  * `ArtistAlbumsIndex`
+    * `ArtistAlbumsIndexItem`
 
-  * 'ResultsIndex'
-    * 'ResultsIndexItem'
-      * 'PlayTrackButton'
-      * 'SongInfo'
-      * 'LikeSongButton'
-      * 'AddToQueueButton'
+  * `ResultsIndex`
+    * `ResultsIndexItem`
+      * `PlayTrackButton`
+      * `SongInfo`
+      * `LikeSongButton`
+      * `AddToQueueButton`
 
-  * 'EditProfileForm'
+  * `EditProfileForm`
 
-  * 'UploadSongForm'
+  * `UploadSongForm`
