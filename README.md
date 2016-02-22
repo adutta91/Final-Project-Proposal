@@ -17,16 +17,20 @@ Features:
 - [ ] Favorite/like songs, which are remembered in their account
 - [ ] Upload their own songs
 
+
+
+## Design Docs
+* [Wireframes][wireframes]
+* [Database Schema][schema]
+
+
+[wireframes]: ./docs/Wireframes.md
+[schema]: ./docs/schema.md
+
+
+
 Bonus features
 - [ ] Create a queue of songs
 - [ ] Songs continue to play as they navigate the site
 - [ ] Follow artists
 - [ ] Recommended songs based on interests (by genre)
-
-
-## Wireframes
-* [Wireframes][wireframes]
-
-[wireframes]: ./docs/Wireframes.md
-
-Database Schema
