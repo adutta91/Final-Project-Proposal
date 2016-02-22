@@ -26,7 +26,7 @@
     * `ExploreIndexItem`
 
   * `UserIndex`
-    * ProfileInfoIndex
+    * `ProfileInfoIndex`
       * `EditProfileButton`
       * `ProfilePicture`
       * `ProfileInfo`
